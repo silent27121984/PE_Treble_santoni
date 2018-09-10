@@ -362,6 +362,7 @@ PRODUCT_PACKAGES += \
     ueventd.qcom.rc
 
 PRODUCT_PACKAGES += \
+    init.goodix.sh \
     init.baseband.sh \
     init.qcom.post_boot.sh
 
